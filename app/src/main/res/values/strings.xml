@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cocinita</string>
+    <string-array name="restaurantes">
+        <item>El Celler de Can Roca</item>
+        <item>Osteria Francescana</item>
+        <item>Mugaritz</item>
+        <item>Eleven Madison Park</item>
+        <item>Biko</item>
+        <item>Le Calandre</item>
+        <item>Vila Joya</item>
+        <item>El Pescador</item>
+        <item>Le Bernardin</item>
+        <item>Narisawa</item>
+    </string-array>
+</resources>
